@@ -1,0 +1,15 @@
+.card__slider {
+    margin-left: 20px;
+}
+.plans-container--slider {
+    width: 100%;
+}
+.plan-card--price .precio {
+    left: 74px;
+}
+.plan-card--price span {
+    left: 68px;
+}
+.plan-card--price .price {
+    left: 56px;
+}
