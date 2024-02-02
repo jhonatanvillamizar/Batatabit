@@ -1,6 +1,11 @@
-# Batatabit
-La próxima revolución en el intercambio de criptomonedas
+>[!NOTE]
+>Batatabit La próxima revolución en el intercambio de criptomonedas
 
-https://jhonatanvillamizar.github.io/Batatabit/
+>[!IMPORTANT]
+>https://jhonatanvillamizar.github.io/Batatabit/
 
-Muchas gracias por visitar el sitio web!! :)
+>[!TIP]
+>Diseño responsive
+
+>[!IMPORTANT]
+>Muchas gracias por visitar el sitio web!! :)
